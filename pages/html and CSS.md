@@ -1,0 +1,17 @@
+- measurements of height and width
+	- vh
+		- vh is the measurement in terms of screen height of the device on which the page is displayed
+			- 100vh=height of the fulll screen
+			- 50vh=height of half screen
+	- vw
+		- vw is the measurement in terms of screen width of the device on which the page is displayed
+			- 100vw
+			- 25vw
+	-
+- display type
+	- flex
+		- flex direction
+		- justify content
+-
+- HTML classes
+- section
